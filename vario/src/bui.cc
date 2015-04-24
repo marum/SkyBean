@@ -1,4 +1,5 @@
 #include "bui.h"
+#include "cfg.h"
 
 #define BUTTON_IDLE		0
 #define BUTTON_PRESSED	1
